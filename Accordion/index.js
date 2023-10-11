@@ -16,7 +16,7 @@
 					<strong>American Eagle</strong>
 					<small>Clothes & Fashion</small>
 				</h3>
-				<span>-39.99 USD</span>
+				<span>-39.99 Rupee</span>
 			</div>
 		</summary>
 		<div>
