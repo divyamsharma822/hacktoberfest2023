@@ -13,4 +13,17 @@ void main() {
   }
 
   print(question1 + question2 + answer());
+
+  print("\n\n");
+
+  final String question3 = "Johny Johny\n";
+  final String question4 = "Yes papa?\n";
+
+  String answer1() {
+    final bool randBool = Random().nextBool();
+
+    return randBool ? "Eating sugar?" : "Bring me spoons";
+  }
+
+  print(question3 + question4 + answer1());
 }
