@@ -1,5 +1,5 @@
 <section>
-	<h1>Latest Transactions</h1>
+	<h1>Latest Transaction Details</h1>
 	<h2>Today</h2>
 	<details>
 		<summary>
