@@ -62,7 +62,7 @@
 			<dl>
 				<div>
 					<dt>Time</dt>
-					<dd>8.14am</dd>
+					<dd>8.14pm</dd>
 				</div>
 
 				<div>
